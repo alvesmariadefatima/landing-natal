@@ -36,5 +36,7 @@ Agradecemos por contribuir para o desenvolvimento da Landing Page "Landing Natal
 
 ---
 
+<p align="center"><a href="https://alvesmariadefatima.github.io/landing-natal/" target="_blank">🎅🏻 Acesse meu projeto aqui 🎅🏻</a></p>
+
 **<p align="center">Divirta-se codificando e tenha um Feliz Natal! 🎄🎅🏻</p>**
 <p align="center"><i>2023 - Maria de Fátima Nunes Alves</i></p>
